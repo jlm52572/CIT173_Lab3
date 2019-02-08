@@ -1,0 +1,99 @@
+    1  mkdir CIT173_Lab3
+    2  whoami
+    3  cd ~/
+    4  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+    5  cd ~/CIT173_Lab3
+    6  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+    7  cat ~/CIT173_Lab3/phonebook.txt
+    8  ls
+    9  cat ~/CIT173_Lab3/phonebook1.txt
+   10  sudo cat ~/CIT173_Lab3/phonebook1.txt
+   11  sudo sed -i 's/575/775/g' ~/CIT173_Lab3/phonebook1.
+   12  sudo sed -i 's/575/775/g' ~/CIT173_Lab3/phonebook1.txt
+   13  ls phonebook1.txt
+   14  ls ~/CIT173_Lab3/phonebook1.txt 
+   15  cat ~/CIT173_Lab3/phonebook1.txt 
+   16  sudo cat ~/CIT173_Lab3/phonebook1.txt 
+   17  sudo cat ~/CIT173_Lab3/phonebook2.txt
+   18  sudo sed -i 's/575/775/g' ~/CIT173_Lab3/phonebook2.txt
+   19  sudo cat ~/CIT173_Lab3/phonebook2.txt
+   20  cd sudo
+   21  sudo cd root
+   22  cd root
+   23  sudo cd
+   24  sudo 
+   25  man sudo
+   26  sudo -i
+   27  man apt
+   28  apt-get install python3-minimal
+   29  sudo apt-get install python3-minimal
+   30  ls apt
+   31  ls apt python3-minimal
+   32  ls
+   33  man apt
+   34  man ls
+   35  ls -a
+   36  apt ls
+   37  ls apt
+   38  ls python3-minimal
+   39  man apt
+   40  ls -a
+   41  man ls
+   42  la -a
+   43  ls ~/CIT173_Lab3 > ~/CIT173_Lab3/my-installed.txt
+   44  man python
+   45  run hello.py
+   46  exe hello.py
+   47  man chmod
+   48  ./hello.py
+   49  man python
+   50  -m hello.py
+   51  man python
+   52  python hello.py
+   53  python3 hello.py > ~/CIT173_Lab3/my-python-output.txt
+   54  ls -a
+   55  man exe
+   56  man .exe
+   57  python3 hello.py > CIT173_Lab3/my-python-output.txt
+   58  man python
+   59  python3 -m hello.py
+   60  ls --all hello.py
+   61  -m hello.py
+   62  ls -a
+   63  sudo -m hello.py
+   64  ls my-installed.txt
+   65  cd my-installed.txt
+   66  read my-installed.txt
+   67  python3 hello.py > CIT173_Lab3_Files
+   68  ls -a
+   69  man apt
+   70  apt-get python3-minimal
+   71  apt-get
+   72  apt-get -install python3-minimal
+   73  sudo apt-get -install python3-minimal
+   74  sudo apt-get python3-minimal
+   75  sudo apt-get install python3-minimal >
+   76  sudo apt-get install python3-minimal 
+   77  apt list --install > ~/CIT173_Lab3/my-installed.txt 
+   78  apt list --install > ~/CIT173_Lab3/my-installed-1.txt 
+   79  apt list --install 
+   80  sudo apt list --install 
+   81  sudo apt list
+   82  sudo apt list --installed
+   83  apt list --installed > ~/CIT173_Lab3/my-installed-1.txt 
+   84  python3 ~/CIT173_Lab3_Files/hello.py > ~/CIT173_Lab3/my-python-output.txt
+   85  python3 ~/CIT173_Lab3_Files/infinite.py &
+   86  ps -A > ~/CIT173_Lab3/my-process-1.txt
+   87  ps 
+   88  ps -A > ~/CIT173_Lab3/my-process-1.txt
+   89  kill -s SIGTERM 3054
+   90  ps --all
+   91  ps -a
+   92  man ps
+   93  ps -A
+   94  ps -A > ~/CIT173_Lab3/my-process-2.txt
+   95  sudo apt-get remove python3-minimal
+   96  ls apt > ~/CIT173_Lab3/my-installed-2.txt
+   97  sudo ls apt > ~/CIT173_Lab3/my-installed-2.txt
+   98  apt list installed > ~/CIT173_Lab3/my-installed-2.txt
+   99  history > ~/CIT173_Lab3/my-command-history.txt
